@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yeslim
 - 👀 I’m interested in fullstack development.
-- 🌱 I’m currently learning html & css.
+
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me: md.y.joud with gmail.
 
