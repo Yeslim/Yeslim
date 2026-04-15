@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yeslim
-- 👀 I’m interested in fullstack development.
+- 👀 I’m interested in GIS-GEE-RS.
 
 - 💞️ I’m looking to collaborate on open source projects.
 
