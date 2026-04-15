@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yeslim
 - 👀 I’m interested in GIS-GEE-RS.
-
+- I am comfortable working in Arabic, English and French.
 - 💞️ I’m looking to collaborate on open source projects.
 
 
